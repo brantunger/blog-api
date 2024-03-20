@@ -11,8 +11,8 @@ docker ps -a
 docker start CONTAINER_ID
 ```
 
-To log in to the local database from a mysql client or GUI Database tool you can use the following credentials:
+To log in to the local database from a postgres client or GUI Database tool you can use the following credentials:
 ```
-Username: root
+Username: brantunger
 Password: password
 ```
